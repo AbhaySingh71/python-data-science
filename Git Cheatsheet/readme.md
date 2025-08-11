@@ -170,3 +170,7 @@
 - `git <command> --help`  
   Alternative way to get command help.
 
+
+`git branch -M main`
+`git push -u origin main`
+
